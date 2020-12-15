@@ -2,7 +2,7 @@ Tutorial-Discord.js-v12
 ---
 Subcribe KingPanda Development
 - Watch the video tutorial and don't copy paste only, or you can't learn how to make discord bot
-<img width="50" height="50" src="https://media.discordapp.net/attachments/778204378737147904/783937591962763314/PicsArt_12-03-01.07.34.jpg?width=759&height=427">
+<img width="759" height="427" src="https://media.discordapp.net/attachments/778204378737147904/783937591962763314/PicsArt_12-03-01.07.34.jpg?width=759&height=427">
 
 ---
 > Link KingPanda Development:
