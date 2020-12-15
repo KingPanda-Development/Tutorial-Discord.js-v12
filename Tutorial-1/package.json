@@ -1,0 +1,25 @@
+{
+  "name": "tutorial-bot-discord1",
+  "version": "0.0.1",
+  "description": "Give tutorial make bot discord for youtube!!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/tutorial-bot-discord1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
