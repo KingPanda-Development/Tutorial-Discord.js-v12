@@ -1,5 +1,3 @@
-const discord = require('discord.js')
-
 module.exports = {
 name: "nuke",
 category: "admin",
@@ -9,10 +7,10 @@ aliases: ["nukechannel", "clearall"],
 run: async (client, message, args) => {
 
  if(!message.member.hasPermission("ADMINISTRATOR")) {
- return message.channel.send(`${message.author}, You are not have permission to use this command!!`);
+ return message.reply("You are not have permission to use this command!!");
  }
  
- let channel = client.channels.cache.get(message.channel.id)
+ let channel = client.channels.cache.get(message.channel.id);
  var posisi = channel.position;
 
  channel.clone().then((channel2) => {
